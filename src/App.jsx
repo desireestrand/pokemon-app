@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="app-container">
       <header>
-        <h1>˚.• Pokémon 151 •˚.</h1>
+        <h1 id="h1"><span>˚.•</span> Pokémon 151 <span>•˚.</span></h1>
       </header>
       
       {!started ? (
@@ -18,6 +18,8 @@ function App() {
       ) : (
         <PokemonApplication/>
       )}
+
+      <footer>Made with ♥ in React. 2025 © Desirée Strand.</footer>
     </div>
   )
 }

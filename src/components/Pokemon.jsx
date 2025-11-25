@@ -37,6 +37,7 @@ function Pokemon({ pokemonURL }) {
     useEffect(() => {
         if (!pokemon) return;
         
+        document.getElementById("h1").style.color = typeColors[pokemon.types[0].type.name][0]
         document.body.style.background = `linear-gradient(180deg, #f0f0f0 65%, ${typeColors[pokemon.types[0].type.name][0]} 100%)`;
     }, [pokemon]);
 
