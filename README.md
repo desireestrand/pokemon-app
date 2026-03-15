@@ -2,7 +2,7 @@
 
 A dynamic React-based explorer built to showcase the original 151 Pokémon species. This application guides users through a multi-stage interface where data is fetched from the PokéAPI and displayed on demand with a custom visual identity for each Pokémon.
 
-[Live Demo](http://localhost:5173/projects/pokemon-app)
+[Live Demo](https://desireestrand.github.io/pokemon-app/)
 
 ---
 
