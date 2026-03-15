@@ -27,7 +27,7 @@ The React application is built using a modular hierarchy (App, PokemonApplicatio
 1. Clone the repository:
    ```bash
    
-    git clone [https://github.com/desireestrand/pokemon-app.git](https://github.com/desireestrand/pokemon-app.git)
+    git clone https://github.com/desireestrand/pokemon-app.git
 
 2. Install dependencies:
     ```bash
