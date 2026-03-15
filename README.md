@@ -34,7 +34,6 @@ The React application is built using a modular hierarchy (App, PokemonApplicatio
     
     npm install
 
-
 3. Start the development server:
     ```bash
     
